@@ -29,5 +29,5 @@
 
 
 #### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=keiriella&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=keiriella&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=keirella&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=keirella&theme=tokyonight&hide_border=false)
