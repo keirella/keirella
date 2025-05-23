@@ -23,7 +23,8 @@
 <hr>
 
 
-<h3>My GitHub contributions summary</h3>
-![](https://github-readme-stats.vercel.app/api?username=keiriella&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=keiriella&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keiriella&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=exuviadot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=exuviadot&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=exuviadot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
